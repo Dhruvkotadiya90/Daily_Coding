@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Day01_EvenOdd {
     public static void main(String[] args) {
 
-        
+        //define scanner as variable "sc"
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter a number: ");
