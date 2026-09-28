@@ -25,3 +25,5 @@ public class Day01_EvenOdd {
         sc.close();
     }
 }
+
+// Expected Output :
