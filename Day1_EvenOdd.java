@@ -1,8 +1,11 @@
+//import scanner to take user input
+
 import java.util.Scanner;
 
 public class Day01_EvenOdd {
     public static void main(String[] args) {
 
+        
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter a number: ");
