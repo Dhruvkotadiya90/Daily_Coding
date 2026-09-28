@@ -11,6 +11,7 @@ public class Day01_EvenOdd {
         //define scanner as variable "sc"
         Scanner sc = new Scanner(System.in);
 
+        //yake input through scanner class
         System.out.print("Enter a number: ");
         int number = sc.nextInt();
 
