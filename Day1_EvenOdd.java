@@ -31,3 +31,4 @@ public class Day01_EvenOdd {
 // 24 is Even
 // Case - 2 :
 // Enter a nmuber : 17
+// 17 is Odd
