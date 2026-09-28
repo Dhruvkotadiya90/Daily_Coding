@@ -2,6 +2,7 @@
 
 import java.util.Scanner;
 
+//main class
 public class Day01_EvenOdd {
     public static void main(String[] args) {
 
