@@ -11,6 +11,7 @@ public class Day01_EvenOdd {
         System.out.print("Enter a number: ");
         int number = sc.nextInt();
 
+        // define functional logic for even & odd
         if (number % 2 == 0) {
             System.out.println(number + " is Even.");
         } else {
