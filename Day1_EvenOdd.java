@@ -29,3 +29,5 @@ public class Day01_EvenOdd {
 // Expected Output :
 // Enter a nmuber : 24
 // 24 is Even
+// Case - 2 :
+// Enter a nmuber : 17
