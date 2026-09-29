@@ -5,6 +5,7 @@ public class NumberCheck {
     public static void main(String[] args) {
 
         // Hard-Coded Value
+        // Can Be Also Taken From User
         int n = -8;
 
         if (n > 0)
