@@ -17,3 +17,5 @@ public class NumberCheck {
             System.out.println("Zero");
     }
 }
+
+// OUTPUT
