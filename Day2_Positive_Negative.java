@@ -8,6 +8,7 @@ public class NumberCheck {
         // Can Be Also Taken From User
         int n = -8;
 
+        // Nested If-Elif-Else Conditions
         if (n > 0)
             System.out.println("Positive");
         else if (n < 0)
