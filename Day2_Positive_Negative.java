@@ -3,6 +3,8 @@
 public class NumberCheck {
     //Main Method
     public static void main(String[] args) {
+
+        // Hard-Coded Value
         int n = -8;
 
         if (n > 0)
