@@ -1,6 +1,7 @@
 //Main Class
 
 public class NumberCheck {
+    //Main Method
     public static void main(String[] args) {
         int n = -8;
 
