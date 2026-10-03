@@ -1,6 +1,6 @@
 //Main Class
 
-public class NumberCheck {
+public class Day2_Positive_Negative {
     //Main Method
     public static void main(String[] args) {
 
