@@ -20,6 +20,7 @@ public class Day3_Smallest_In_The_Array{
 
         }
 
+        // Print The Smallest Element
         System.out.println("Smallest Element In The Array Is: " + smallest);
 
     }
