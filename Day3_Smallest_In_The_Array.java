@@ -11,6 +11,7 @@ public class Day3_Smallest_In_The_Array{
         // Assume First Element As Smallest
         int smallest = arr[0];
 
+        // Iterate Through The Array To Find The Smallest Element
         for(int i = 0; i < arr.length; i++){
             
             if(arr[i] < smallest){
