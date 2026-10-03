@@ -11,8 +11,10 @@ public class Day3_Smallest_In_The_Array{
             if(arr[i] < smallest){
                 smallest = arr[i];
             }
-            
+
         }
+
+        System.out.println("Smallest Element In The Array Is: " + smallest);
 
     }
 
