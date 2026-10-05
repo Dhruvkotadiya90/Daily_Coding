@@ -18,6 +18,9 @@ class Day5_Reverse_Array{
             int j = arr.length - 1;
             int temp;
 
+                // i = 0, j = 4 (arr.length = 5) --> 10 & 50 swapped
+                // i = 1, j = 3 --> 20 & 40 swapped
+                // i = 2, j = 2 --> loop ends
                 while (i < j) {
                     temp = arr[i];
                     arr[i] = arr[j];
