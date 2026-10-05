@@ -6,6 +6,7 @@ class Day5_Reverse_Array{
     static int[] arr = {10, 20, 30, 40, 50};
     public static void main(String[] args) {
         
+        // Initial Array
         System.out.println(" Before Reversing Array :");
         for(int i = 0; i < arr.length; i++){
             System.out.println(" Index : " + i + " Element : " + arr[i]);
