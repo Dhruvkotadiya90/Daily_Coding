@@ -17,6 +17,13 @@ class Day6_Largest_Element_In_Array{
 
         // Assume First Element of Array is the largest
         int largest = arr[0];
+
+        // Traverse the array and compare each element with the largest
+        for( int i = 0; i < arr.length; i++ ){
+
+
+
+        }
         return largest;
 
     }
