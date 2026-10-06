@@ -12,6 +12,7 @@ class Day6_Largest_Element_In_Array{
 
     }
 
+    // static method to find the largest element in the array
     public static int findLargest(int[] arr) {
 
         // Assume First Element of Array is the largest
