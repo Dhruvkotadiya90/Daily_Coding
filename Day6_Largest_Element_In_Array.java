@@ -7,6 +7,7 @@ class Day6_Largest_Element_In_Array{
     public static void main(String[] args) {
         
         // Find the largest element in the array
+        // Call "findLargest" method and pass the array as an argument
         int largest = findLargest(arr);
         System.out.println("Largest element in the array is: " + largest);
 
