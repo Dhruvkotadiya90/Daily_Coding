@@ -24,6 +24,7 @@ class Day7_Second_Largest_In_Array {
 
     }
 
+    // Main method to execute the program
     public static void main(String[] args){
         
         System.out.println("The second largest number in the array is: " + sec_largest(arr));
