@@ -9,6 +9,7 @@ class Day7_Second_Largest_In_Array {
     // Method to find the second largest number in the array
     public static int sec_largest(int[] arr) {
 
+        // Iterate through the array to find the largest and second largest numbers
         for (int i = 0; i < arr.length; i++) {
 
             if (arr[i] > largest) {
