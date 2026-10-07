@@ -6,6 +6,7 @@ class Day7_Second_Largest_In_Array {
     static int largest = arr[0];
     static int sec_largest = largest;
 
+    // Method to find the second largest number in the array
     public static int sec_largest(int[] arr) {
 
         for (int i = 0; i < arr.length; i++) {
