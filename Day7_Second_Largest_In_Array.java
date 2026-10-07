@@ -1,3 +1,4 @@
+// Main Class
 class Day7_Second_Largest_In_Array {
 
     static int[] arr = {2, 10, 43, 21, 98, 54, 33, 12};
