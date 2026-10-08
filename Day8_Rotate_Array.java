@@ -1,5 +1,7 @@
+// Main Class
 class Day8_Rotate_Array {
 
+    // Static Array
     static int[] arr = {2, 10, 43, 21, 98, 54, 33, 12};
 
     public static int rotate_Array(int[] arr) {
