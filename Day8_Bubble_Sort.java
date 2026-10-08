@@ -11,6 +11,7 @@ class Day8_Bubble_Sort {
         for (int i = 0; i<arr.length ; i++){
             for(int j = 0; j < arr.length - 1 ; j++){
 
+                // Swapping the elements if they are in the wrong order
                 if( arr[j] > arr[j+1]){
 
                     int temp = arr[j];
@@ -22,6 +23,7 @@ class Day8_Bubble_Sort {
             }
         }
 
+        // Printing the sorted array
         for(int i = 0 ; i < arr.length ; i++){
             System.out.print(arr[i] + " ");
         }
