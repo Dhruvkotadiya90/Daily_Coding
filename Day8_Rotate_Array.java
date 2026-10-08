@@ -4,6 +4,7 @@ class Day8_Rotate_Array {
     // Static Array
     static int[] arr = {2, 10, 43, 21, 98, 54, 33, 12};
 
+    // Method to rotate the array
     public static int rotate_Array(int[] arr) {
         
         for (int i = 0; i<arr.length ; i++){
