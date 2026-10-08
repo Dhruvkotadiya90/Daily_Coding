@@ -7,6 +7,7 @@ class Day8_Rotate_Array {
     // Method to rotate the array
     public static int rotate_Array(int[] arr) {
         
+        // Sorting the array in ascending order using bubble sort
         for (int i = 0; i<arr.length ; i++){
             for(int j = 0; j < arr.length - 1 ; j++){
 
