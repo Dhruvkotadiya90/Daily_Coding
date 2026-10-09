@@ -30,3 +30,6 @@ public class Day9_Move_Zeroes_To_End {
         }
         
 }
+
+// OUTPUT:
+// 2 35 40 0 0 0
