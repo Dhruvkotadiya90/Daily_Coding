@@ -1,9 +1,12 @@
 
 public class Day9_Move_Zeroes_To_End {
+
+    // Main Method
     public static void main(String[] args) {
         
         int[] arr = {2, 0, 0, 35, 0, 40};
-        
+
+        // Access Index Using Pointer Variable
         int index = 0;
         
         for (int i = 0; i < arr.length ; i++) {
