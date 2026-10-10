@@ -4,6 +4,7 @@ class Day10_Find_Missing_Value{
 
     // Global Array Declaration 
     static int[] arr = {1, 2, 3, 5};
+
     static int n = arr.length + 1;
     static int arr_sum = 0;
     static int actual_sum = n * (n + 1) / 2;
@@ -26,6 +27,7 @@ class Day10_Find_Missing_Value{
 
     public static void main(String[] args) {
         
+        // Calling Method to Find Missing Value in Array
         findMissing(arr);
 
     }
