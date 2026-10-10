@@ -11,6 +11,7 @@ class Day10_Find_Missing_Value{
     // Method to Find Missing Value in Array
     public static int findMissing(int[] arr){
 
+        // Calculating Sum of Array Elements
         for(int i = 0; i < arr.length; i++){
             arr_sum += arr[i];
         }
