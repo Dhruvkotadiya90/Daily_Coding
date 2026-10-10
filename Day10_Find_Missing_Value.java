@@ -24,5 +24,6 @@ class Day10_Find_Missing_Value{
         findMissing(arr);
 
     }
-
 }
+
+// OUTPUT
