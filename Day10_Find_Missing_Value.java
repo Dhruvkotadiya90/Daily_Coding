@@ -8,6 +8,7 @@ class Day10_Find_Missing_Value{
     static int arr_sum = 0;
     static int actual_sum = n * (n + 1) / 2;
 
+    // Method to Find Missing Value in Array
     public static int findMissing(int[] arr){
 
         for(int i = 0; i < arr.length; i++){
