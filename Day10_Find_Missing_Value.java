@@ -1,5 +1,7 @@
 class Day10_Find_Missing_Value{
 
+    // NOTE : Works For Only Sequential & Unique Numbers in Array
+
     // Global Array Declaration 
     static int[] arr = {1, 2, 3, 5};
     static int n = arr.length + 1;
