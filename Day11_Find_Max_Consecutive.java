@@ -10,6 +10,7 @@ public class Day11_Find_Max_Consecutive {
         int count = 0;
         int maxCount = 0;
 
+        // looping through the array to find the maximum number of consecutive 1's
         for(int i = 0; i < arr.length; i++){
 
             if (arr[i] == 1){
