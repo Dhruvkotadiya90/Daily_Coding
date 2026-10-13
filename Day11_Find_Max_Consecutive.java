@@ -37,3 +37,5 @@ public class Day11_Find_Max_Consecutive {
     }
 
 }
+
+// OUTPUT
