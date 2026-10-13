@@ -39,3 +39,4 @@ public class Day11_Find_Max_Consecutive {
 }
 
 // OUTPUT
+// Max Consecutive 1's: 2
