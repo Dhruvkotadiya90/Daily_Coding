@@ -3,9 +3,11 @@ public class Day11_Find_Max_Consecutive {
     // Given an array of 0s and 1s, find the maximum number of consecutive 1's in the array.
     static int arr[] = {1, 0, 1, 1, 0, 1};
 
+    // Function to find the maximum number of consecutive 1's in the array
     public static int findConsecutive(int arr[]){
     
-         int count = 0;
+        // initializing count and maxCount to 0
+        int count = 0;
         int maxCount = 0;
 
         for(int i = 0; i < arr.length; i++){
