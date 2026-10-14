@@ -1,5 +1,5 @@
 
-public class Day9_Move_Zeroes_To_End {
+public class Day09_Move_Zeroes_To_End {
 
     // Main Method
     public static void main(String[] args) {
