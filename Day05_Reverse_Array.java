@@ -1,7 +1,7 @@
 // Question : Reverse an entire array
 // for example if an array a[5] = [10,20,30,40,50] is given than do a[5] = [50,40,30,20,10]
 
-class Day5_Reverse_Array{
+class Day05_Reverse_Array{
 
     static int[] arr = {10, 20, 30, 40, 50};
     public static void main(String[] args) {
