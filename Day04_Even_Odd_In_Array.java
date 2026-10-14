@@ -1,6 +1,6 @@
 // Main Class
 
-class Day4_Even_Odd_In_Array{
+class Day04_Even_Odd_In_Array{
 
     // Main Method
     public static void main(String[] args) {
