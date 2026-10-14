@@ -1,5 +1,5 @@
 // Main Class
-class Day7_Second_Largest_In_Array {
+class Day07_Second_Largest_In_Array {
 
     // Declare the array and initializing the largest and second largest variables
     static int[] arr = {2, 10, 43, 21, 98, 54, 33, 12};
