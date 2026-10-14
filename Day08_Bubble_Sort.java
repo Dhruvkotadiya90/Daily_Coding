@@ -1,5 +1,5 @@
 // Main Class
-class Day8_Bubble_Sort {
+class Day08_Bubble_Sort {
 
     // Static Array
     static int[] arr = {2, 10, 43, 21, 98, 54, 33, 12};
