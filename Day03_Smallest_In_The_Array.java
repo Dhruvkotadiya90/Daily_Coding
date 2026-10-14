@@ -1,6 +1,6 @@
 // Main Class
 
-public class Day3_Smallest_In_The_Array{
+public class Day03_Smallest_In_The_Array{
 
     // Main Method
     public static void main(String[] args) {
