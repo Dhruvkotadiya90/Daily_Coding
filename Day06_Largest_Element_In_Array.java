@@ -1,5 +1,5 @@
 // Class
-class Day6_Largest_Element_In_Array{
+class Day06_Largest_Element_In_Array{
 
     // Global Array Declaration
     static int[] arr = {2, 10, 43, 21, 98, 54, 33, 12};
